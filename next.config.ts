@@ -1,5 +1,5 @@
 const nextConfig = {
-  output: 'export',
+  output: 'export',  // Для статического экспорта
   images: {
     unoptimized: true,
   },
